@@ -1,0 +1,15 @@
+@import "config/variables";
+@import "config/layout";
+@import "config/colors";
+
+@import "utilities/spacing";
+
+@import "base/fonts";
+@import "base/global";
+@import "base/typography";
+@import "base/links";
+
+$background-color: silver;
+body{
+  background-color: $background-color;
+}
